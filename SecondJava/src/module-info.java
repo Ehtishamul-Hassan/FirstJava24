@@ -4,5 +4,5 @@
 /**
  * 
  */
-module MyFirstJava {
+module SecondJava {
 }
